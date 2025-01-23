@@ -14,7 +14,7 @@ DelVehZone is a QBCore script that automatically deletes vehicles when players e
 
 Watch the video tutorial on how DelVehZone works:
 
-[![Watch the video](https://img.youtube.com/vi/POYAtxu0KOs&ab/maxresdefault.jpg)](https://www.youtube.com/watch?v=POYAtxu0KOs&ab)
+[![Watch the video](https://www.youtube.com/watch?v=POYAtxu0KOs&ab)
 
 ## Installation
 
