@@ -9,6 +9,7 @@ DelVehZone is a QBCore script that automatically deletes vehicles when players e
 - Deletes vehicles after a specified amount of time if the player is not in the vehicle.
 - Configurable zones and deletion times.
 - Option to delete vehicles even if the player is still in the vehicle.
+- Use the `/pzcreate circle` command to visualize how the zone area will look.
 
 ## Showcase
 
@@ -23,3 +24,4 @@ Watch the video tutorial on how DelVehZone works:
 
    ```plaintext
    ensure DelVehZone
+
